@@ -12,8 +12,8 @@ https://github.com/yhaolpz/FloatWindow
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/YNg3dBh.jpg" width="240"/>
-  <img src="https://i.imgur.com/5SQobCA.jpg" width="240"/>
-  <img src="https://i.imgur.com/m08YjZO.jpg" width="240"/>
-  <img src="https://i.imgur.com/hLyk88R.png" width="240"/>
+  <img src="https://i.imgur.com/YNg3dBh.jpg" width="195"/>
+  <img src="https://i.imgur.com/5SQobCA.jpg" width="195"/>
+  <img src="https://i.imgur.com/m08YjZO.jpg" width="195"/>
+  <img src="https://i.imgur.com/hLyk88R.png" width="195"/>
 </p>                                 
